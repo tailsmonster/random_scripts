@@ -40,3 +40,4 @@ else
     xclip -selection clipboard -t image/png -i "$FILE"
     notify-send "🖥️ Screenshot (monitor)" "Saved & copied: $FILE"
 fi
+
